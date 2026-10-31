@@ -1,0 +1,19 @@
+src/auth/GMAuth.ts
+  s_32bb488c671d1b::t_dec8b6ec77e984 2725-2727,2729,2732-2734
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "8ba95821fee44a2bdddf2e3b58e056a9cac1d4d2",
+  "prompts": {},
+  "sessions": {
+    "s_32bb488c671d1b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ddfedd66-b058-462d-a5c0-89b3bf0b9864",
+        "model": "unknown"
+      },
+      "human_author": "David Longman <dlongman@tokentradegames.com>"
+    }
+  }
+}
